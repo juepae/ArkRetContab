@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/03/21 19:21:42.638,=S:\00-DataUsers\juanep\Documentos\Desarrollos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/21 19:35:27.019,S:\00-DataUsers\juanep\Documentos\Desarrollos\Embarcadero\Studio\Projects\ArkRetContab\ArkContRet.dfm=S:\00-DataUsers\juanep\Documentos\Desarrollos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/03/21 19:35:27.019,S:\00-DataUsers\juanep\Documentos\Desarrollos\Embarcadero\Studio\Projects\ArkRetContab\ArkContRet.pas=S:\00-DataUsers\juanep\Documentos\Desarrollos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/21 19:36:27.617,S:\00-DataUsers\juanep\Documentos\Desarrollos\Embarcadero\Studio\Projects\ArkRetContab\ArkContReProject.dproj=S:\00-DataUsers\juanep\Documentos\Desarrollos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
