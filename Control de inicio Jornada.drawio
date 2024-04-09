@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T03:41:07.375Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="cSW6Mn090WEbz1GZkRPs" version="24.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-09T03:50:50.393Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="10DrLZjqt0kQ6_4OSy-y" version="24.2.3" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="INICIO JORNADA">
     <mxGraphModel dx="880" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
             <mxPoint x="220" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x7VhPs1z7V3mAD25eQ-0-0" value="&lt;div&gt;Toma&amp;nbsp;&lt;/div&gt;&lt;div&gt;de&lt;/div&gt;&lt;div&gt;Medición&lt;br&gt; &lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="x7VhPs1z7V3mAD25eQ-0-0" value="&lt;div&gt;Toma &lt;br&gt;&lt;/div&gt;&lt;div&gt;Medición&lt;/div&gt;&lt;div&gt;Niveles&lt;br&gt; &lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="170" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="x7VhPs1z7V3mAD25eQ-0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x7VhPs1z7V3mAD25eQ-0-1">
@@ -19,10 +19,10 @@
             <mxPoint x="220" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x7VhPs1z7V3mAD25eQ-0-1" value="&lt;div&gt;Registra&lt;/div&gt;&lt;div&gt;lectura&lt;br&gt;&lt;/div&gt;" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=13;arcSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="x7VhPs1z7V3mAD25eQ-0-1" value="&lt;div&gt;Registra&lt;/div&gt;&lt;div&gt;Mediciones&lt;br&gt;&lt;/div&gt;" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=13;arcSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="270" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="x7VhPs1z7V3mAD25eQ-0-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="x7VhPs1z7V3mAD25eQ-0-3" value="Fin Fase I" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="175" y="370" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="x7VhPs1z7V3mAD25eQ-0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x7VhPs1z7V3mAD25eQ-0-4" target="x7VhPs1z7V3mAD25eQ-0-0">
@@ -30,6 +30,36 @@
         </mxCell>
         <mxCell id="x7VhPs1z7V3mAD25eQ-0-4" value="&lt;div&gt;Inicio Diario&lt;/div&gt;&lt;div&gt;Fase I&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="60" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wAgmFDGJR4LT82Wo-S1G-0" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="wAgmFDGJR4LT82Wo-S1G-1" target="wAgmFDGJR4LT82Wo-S1G-3" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="440" y="250" as="sourcePoint" />
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wAgmFDGJR4LT82Wo-S1G-1" value="&lt;div&gt;Toma&amp;nbsp;&lt;/div&gt;&lt;div&gt;Lectura&lt;br&gt;&lt;/div&gt;&lt;div&gt;Medidores&lt;br&gt; &lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="170" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wAgmFDGJR4LT82Wo-S1G-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="wAgmFDGJR4LT82Wo-S1G-3" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wAgmFDGJR4LT82Wo-S1G-3" value="&lt;div&gt;Registra&lt;/div&gt;&lt;div&gt;lectura&lt;br&gt;&lt;/div&gt;" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=13;arcSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="270" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wAgmFDGJR4LT82Wo-S1G-4" value="Fin Fase II" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="395" y="370" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wAgmFDGJR4LT82Wo-S1G-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="wAgmFDGJR4LT82Wo-S1G-6" target="wAgmFDGJR4LT82Wo-S1G-1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wAgmFDGJR4LT82Wo-S1G-6" value="&lt;div&gt;Inicio Diario&lt;/div&gt;&lt;div&gt;Fase II&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="60" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wAgmFDGJR4LT82Wo-S1G-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Lecturas Iniciales&lt;br&gt;&lt;/h1&gt;&lt;ol&gt;&lt;li&gt;Tomar y registrar las medidas del volumen fisico de combustible en cada tanque al inicio de caada jornaada diaria&lt;/li&gt;&lt;li&gt;Tomar y registrar las lecturas de los Medidores de cada Tanque al inicio de cada jornada.&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="537" y="60" width="290" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
